@@ -37,3 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Output
 
+![output](https://github.com/dinbandhu12/Next.js-Modern-Portfolio/assets/74874773/0bdadb43-a5cd-4f66-9f56-b5a48ec5ee19)
+
